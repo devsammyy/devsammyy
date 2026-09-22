@@ -121,6 +121,24 @@ const babatunde = {
 
 ## 📌 Featured Projects
 
+### 🤖 &nbsp; Cockpit — Enterprise AI Agent
+
+Turns a plain-language business goal into an executable **workflow DAG** planned by Qwen, then runs it step by step with tool calling. **Human-in-the-loop approval gates that survive restarts**, checkpointed retries and saga compensation for automatic undo. Real MCP client over JSON-RPC/stdio, a composable policy engine and an AES-256-GCM credential vault. Prometheus metrics and OpenTelemetry traces throughout.
+
+<p>
+<img src="https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+<img src="https://img.shields.io/badge/BullMQ-0D1117?style=flat-square&logo=redis&logoColor=FF4438" alt="BullMQ" />
+<img src="https://img.shields.io/badge/Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
+<img src="https://img.shields.io/badge/OpenTelemetry-0D1117?style=flat-square&logo=opentelemetry&logoColor=FFFFFF" alt="OpenTelemetry" />
+<br>
+<a href="https://github.com/devsammyy/qwen_hack"><img src="https://img.shields.io/badge/Source-devsammyy%2Fqwen__hack-0D1117?style=flat-square&labelColor=0D1117&logo=github&logoColor=white" alt="Source" /></a>
+<img src="https://img.shields.io/github/stars/devsammyy/qwen_hack?style=flat-square&label=stars&labelColor=0D1117&color=F59E0B" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/devsammyy/qwen_hack?style=flat-square&labelColor=0D1117&color=2563EB&logo=git&logoColor=38BDF8" alt="Last commit" />
+</p>
+
+<br>
+
 ### 🎬 &nbsp;Malik Streams — 10-Service Microservices Platform
 
 Central **OAuth** service and an API gateway fronting eight domain services: an offline-capable **POS**, a hotel PMS with a booking engine, a marketplace, a storefront, an admin console and a security-guard app. Event bus and background processing on Redis + BullMQ, the whole fleet orchestrated with Podman.
@@ -149,24 +167,6 @@ Built end to end: backend, web app and admin console. Automated savings accrual,
 <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
 <img src="https://img.shields.io/badge/Flutterwave-0D1117?style=flat-square&labelColor=0D1117&color=F5A623" alt="Flutterwave" />
 &nbsp;<a href="https://app.benjafa.com"><img src="https://img.shields.io/badge/🔗%20app.benjafa.com-0D1117?style=flat-square&labelColor=2563EB&color=2563EB" alt="Live" /></a>
-</p>
-
-<br>
-
-### 🤖 &nbsp; Cockpit — Enterprise AI Agent
-
-Turns a plain-language business goal into an executable **workflow DAG** planned by Qwen, then runs it step by step with tool calling. **Human-in-the-loop approval gates that survive restarts**, checkpointed retries and saga compensation for automatic undo. Real MCP client over JSON-RPC/stdio, a composable policy engine and an AES-256-GCM credential vault. Prometheus metrics and OpenTelemetry traces throughout.
-
-<p>
-<img src="https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-<img src="https://img.shields.io/badge/BullMQ-0D1117?style=flat-square&logo=redis&logoColor=FF4438" alt="BullMQ" />
-<img src="https://img.shields.io/badge/Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
-<img src="https://img.shields.io/badge/OpenTelemetry-0D1117?style=flat-square&logo=opentelemetry&logoColor=FFFFFF" alt="OpenTelemetry" />
-<br>
-<a href="https://github.com/devsammyy/qwen_hack"><img src="https://img.shields.io/badge/Source-devsammyy%2Fqwen__hack-0D1117?style=flat-square&labelColor=0D1117&logo=github&logoColor=white" alt="Source" /></a>
-<img src="https://img.shields.io/github/stars/devsammyy/qwen_hack?style=flat-square&label=stars&labelColor=0D1117&color=F59E0B" alt="Stars" />
-<img src="https://img.shields.io/github/last-commit/devsammyy/qwen_hack?style=flat-square&labelColor=0D1117&color=2563EB&logo=git&logoColor=38BDF8" alt="Last commit" />
 </p>
 
 <br>
