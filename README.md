@@ -134,7 +134,7 @@ Turns a plain-language business goal into an executable **workflow DAG** planned
 <br>
 <a href="https://github.com/devsammyy/qwen_hack"><img src="https://img.shields.io/badge/Source-devsammyy%2Fqwen__hack-0D1117?style=flat-square&labelColor=0D1117&logo=github&logoColor=white" alt="Source" /></a>
 <img src="https://img.shields.io/github/stars/devsammyy/qwen_hack?style=flat-square&label=stars&labelColor=0D1117&color=F59E0B" alt="Stars" />
-<img src="https://img.shields.io/github/last-commit/devsammyy/qwen_hack?style=flat-square&labelColor=0D1117&color=2563EB&logo=git&logoColor=38BDF8" alt="Last commit" />
+<img src="https://img.shields.io/github/last-commit/devsammyy/cockpit?style=flat-square&labelColor=0D1117&color=2563EB&logo=git&logoColor=38BDF8" alt="Last commit" />
 </p>
 
 <br>
