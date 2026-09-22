@@ -153,7 +153,7 @@ Built end to end: backend, web app and admin console. Automated savings accrual,
 
 <br>
 
-### 🤖 &nbsp;Qwen Autopilot Platform — Enterprise AI Agent
+### 🤖 &nbsp; Cockpit — Enterprise AI Agent
 
 Turns a plain-language business goal into an executable **workflow DAG** planned by Qwen, then runs it step by step with tool calling. **Human-in-the-loop approval gates that survive restarts**, checkpointed retries and saga compensation for automatic undo. Real MCP client over JSON-RPC/stdio, a composable policy engine and an AES-256-GCM credential vault. Prometheus metrics and OpenTelemetry traces throughout.
 
