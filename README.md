@@ -132,8 +132,8 @@ Turns a plain-language business goal into an executable **workflow DAG** planned
 <img src="https://img.shields.io/badge/Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
 <img src="https://img.shields.io/badge/OpenTelemetry-0D1117?style=flat-square&logo=opentelemetry&logoColor=FFFFFF" alt="OpenTelemetry" />
 <br>
-<a href="https://github.com/devsammyy/qwen_hack"><img src="https://img.shields.io/badge/Source-devsammyy%2Fqwen__hack-0D1117?style=flat-square&labelColor=0D1117&logo=github&logoColor=white" alt="Source" /></a>
-<img src="https://img.shields.io/github/stars/devsammyy/qwen_hack?style=flat-square&label=stars&labelColor=0D1117&color=F59E0B" alt="Stars" />
+<a href="https://github.com/devsammyy/cockpit"><img src="https://img.shields.io/badge/Source-devsammyy%2Fcockpit-0D1117?style=flat-square&labelColor=0D1117&logo=github&logoColor=white" alt="Source" /></a>
+<img src="https://img.shields.io/github/stars/devsammyy/cockpit?style=flat-square&label=stars&labelColor=0D1117&color=F59E0B" alt="Stars" />
 <img src="https://img.shields.io/github/last-commit/devsammyy/cockpit?style=flat-square&labelColor=0D1117&color=2563EB&logo=git&logoColor=38BDF8" alt="Last commit" />
 </p>
 
